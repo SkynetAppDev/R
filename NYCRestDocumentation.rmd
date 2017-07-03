@@ -1,5 +1,5 @@
 ---
-title: "NYCRestDocumentation"
+<b>Title:</b> "NYCRestDocumentation"
 author: "Jay P Kesavan"
 date: "July 2, 2017"
 output: html_document
